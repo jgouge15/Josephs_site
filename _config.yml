@@ -27,4 +27,4 @@ paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-theme: flexible-jekyll
+
